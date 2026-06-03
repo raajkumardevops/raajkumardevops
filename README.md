@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Raajkumar+PR+%F0%9F%91%8B;Full+Stack+%2F+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Building+Futuristic+Web+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raajkumarpr&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/raajkumarpr)
+[![Profile Views](https://komarev.com/ghpvc/?username=raajkumardevops&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/raajkumardevops)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raajkumar--pr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajkumar-pr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-raajportfoliodev-38BDAE?style=flat-square&logo=netlify&logoColor=white)](https://raajportfoliodev.netlify.app)
 [![Email](https://img.shields.io/badge/Email-raajkumar.devops%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raajkumar.devops@gmail.com)
@@ -109,11 +109,11 @@ const raajkumar = {
 
 <div align="center">
 
-<a href="https://github.com/raajkumarpr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raajkumarpr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/raajkumardevops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raajkumardevops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/raajkumarpr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raajkumarpr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/raajkumardevops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raajkumardevops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -124,7 +124,7 @@ const raajkumar = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raajkumarpr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raajkumardevops&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -134,7 +134,7 @@ const raajkumar = {
 
 <div align="center">
 
-[![Raajkumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raajkumarpr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/raajkumarpr)
+[![Raajkumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raajkumardevops&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/raajkumardevops)
 
 </div>
 
@@ -144,7 +144,7 @@ const raajkumar = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raajkumarpr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raajkumardevops&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -156,10 +156,10 @@ const raajkumar = {
 
 | Project | Stack | Highlights |
 |--------|-------|-----------|
-| [**Campus Course Registration Portal (CCRP)**](https://github.com/raajkumarpr) | React.js · Node.js · Express.js · MongoDB | Full MERN app • Student enrollment & admin dashboard • JWT-protected routes • Digitized manual registration workflow |
-| [**Instagram Clone**](https://github.com/raajkumarpr) | React.js · Bootstrap | Responsive social media UI • Reusable components • CRUD-based dynamic post rendering • Mobile-first design |
+| [**Campus Course Registration Portal (CCRP)**](https://github.com/raajkumardevops) | React.js · Node.js · Express.js · MongoDB | Full MERN app • Student enrollment & admin dashboard • JWT-protected routes • Digitized manual registration workflow |
+| [**Instagram Clone**](https://github.com/raajkumardevops) | React.js · Bootstrap | Responsive social media UI • Reusable components • CRUD-based dynamic post rendering • Mobile-first design |
 | [**RK Portfolio**](https://raajportfoliodev.netlify.app) | React.js · Bootstrap · React Router · Framer Motion | Live on Netlify • Cinematic UI • Component-based SPA architecture |
-| [**ML Traders**](https://github.com/raajkumarpr) | React.js · React Router · CSS3 | Frontend e-commerce app • Product listing • Seamless client-side routing |
+| [**ML Traders**](https://github.com/raajkumardevops) | React.js · React Router · CSS3 | Frontend e-commerce app • Product listing • Seamless client-side routing |
 
 </div>
 
